@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "springbootMS"
+  description: "kaparwanspringbootMS"
+  annotations:
+    github.com/project-slug: "kaparwan/springbootMS"
+    backstage.io/techdocs-ref: github:https://github.com/kaparwan/springbootMS
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "kaparwan"

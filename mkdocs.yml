@@ -1,0 +1,8 @@
+site_name: "springbootMS"
+site_description: "kaparwanspringbootMS"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
